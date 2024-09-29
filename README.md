@@ -1,2 +1,2 @@
 # simple-chatbot
-Simple chatbot example
+Basic chatbot app with python using OpenAI API. The frontend is built using Streamlit library.
